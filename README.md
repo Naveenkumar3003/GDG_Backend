@@ -7,8 +7,8 @@ This is a RESTful API for managing menu items in a college canteen system, devel
 **Developer:** [Naveenkumar N]  
 **Email:** [naveennkumar0312@gmail.com]  
 **GitHub:** [https://github.com/Naveenkumar3003/GDG_Backend]  
-**Submission Date:** December 15, 2025
 **GDrive Link:** [https://drive.google.com/drive/folders/1r-9XeqelNfFKUhEaGT9s0Sj4H4RTncD_?usp=sharing]
+
 ---
 
 ## 🛠️ Technologies Used
