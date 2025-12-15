@@ -4,11 +4,11 @@
 
 This is a RESTful API for managing menu items in a college canteen system, developed as part of the **GDG on Campus Backend Volunteer Selection Task**. The application allows canteen admins to perform CRUD (Create, Read, Update, Delete) operations on food items with comprehensive validation and error handling.
 
-**Developer:** [Your Full Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [https://github.com/yourusername/canteen-menu-api]  
+**Developer:** [Naveenkumar N]  
+**Email:** [naveennkumar0312@gmail.com]  
+**GitHub:** [https://github.com/Naveenkumar3003/GDG_Backend]  
 **Submission Date:** December 15, 2025
-
+**GDrive Link:** [https://drive.google.com/drive/folders/1r-9XeqelNfFKUhEaGT9s0Sj4H4RTncD_?usp=sharing]
 ---
 
 ## 🛠️ Technologies Used
@@ -1080,6 +1080,7 @@ Potential features for future development:
 **Email:** [naveennkumar0312@gmail.com]  
 **GitHub:** [https://github.com/Naveenkumar3003]  
 **LinkedIn:** [https://www.linkedin.com/in/naveen-kumar-15b7b7343/]
+
 **GDrive Link:** [https://drive.google.com/drive/folders/1r-9XeqelNfFKUhEaGT9s0Sj4H4RTncD_?usp=sharing]
 
 For questions or issues, please:
